@@ -1,3 +1,4 @@
+<html>
 <body>
     <h1><strong>Bem-vindo ao repositório do projeto API de Gerenciamento de Usuários</strong></h1>
     <p>Este é uma API REST, realizado para um aplicativo de gerenciamento de usuários, desenvolvido com base no conceito CRUD (Create, Read, Update, Delete). A API permite o cadastro, listagem, atualização e exclusão de usuários, garantindo segurança através do armazenamento de senhas em hash e evitando duplicidade de emails e CPFs.</p>
