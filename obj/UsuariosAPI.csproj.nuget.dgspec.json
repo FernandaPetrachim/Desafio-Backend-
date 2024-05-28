@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/usuario/DesafioBackend/UsuariosAPI.csproj": {}
+    "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/UsuariosAPI.csproj": {}
   },
   "projects": {
-    "/home/usuario/DesafioBackend/UsuariosAPI.csproj": {
+    "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/UsuariosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/usuario/DesafioBackend/UsuariosAPI.csproj",
+        "projectUniqueName": "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/UsuariosAPI.csproj",
         "projectName": "UsuariosAPI",
-        "projectPath": "/home/usuario/DesafioBackend/UsuariosAPI.csproj",
+        "projectPath": "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/UsuariosAPI.csproj",
         "packagesPath": "/home/usuario/.nuget/packages/",
-        "outputPath": "/home/usuario/DesafioBackend/obj/",
+        "outputPath": "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/usuario/.nuget/NuGet/NuGet.Config"

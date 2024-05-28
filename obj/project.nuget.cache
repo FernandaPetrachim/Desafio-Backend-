@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNUaXpVqERY=",
+  "dgSpecHash": "e8GaPuqzXQM=",
   "success": true,
-  "projectFilePath": "/home/usuario/DesafioBackend/UsuariosAPI.csproj",
+  "projectFilePath": "/home/usuario/Documentos/DesafioBackEndPorjetoapideUsuarios/DesafioBackend/UsuariosAPI.csproj",
   "expectedPackageFiles": [
     "/home/usuario/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/usuario/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
