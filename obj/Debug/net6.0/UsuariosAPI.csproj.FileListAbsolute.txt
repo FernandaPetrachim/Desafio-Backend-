@@ -1,0 +1,6 @@
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.csproj.AssemblyReference.cache
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.AssemblyInfoInputs.cache
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.AssemblyInfo.cs
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.csproj.CoreCompileInputs.cache
+/home/usuario/DesafioBackend/obj/Debug/net6.0/UsuariosAPI.MvcApplicationPartsAssemblyInfo.cache
