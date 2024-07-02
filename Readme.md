@@ -101,7 +101,7 @@
     <h2><strong>Queries T-SQL</strong></h2>
     <p>As queries T-SQL representando as operações CRUD podem ser encontradas na pasta <code>Database</code>.</p>
     <h2><strong>Testes</strong></h2>
-    <p>Os testes da API foram realizados utilizando o Thunder Client, uma extensão do VS Code para testar APIs REST.</p>
+    <p>Os testes da API foram realizados utilizando o Thunder Client, uma extensão do VS Code para testar APIs REST.E pelo swagger: http://localhost:5010/swagger/index.html</p>
 <h2><strong>Contribuição</strong></h2>
     <p>Se deseja contribuir com este projeto, por favor, siga os passos abaixo:</p>
     <ol>
